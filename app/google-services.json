@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1014559324534",
+    "firebase_url": "https://wechat-48d21.firebaseio.com",
+    "project_id": "wechat-48d21",
+    "storage_bucket": "wechat-48d21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014559324534:android:7af282b50fc45081",
+        "android_client_info": {
+          "package_name": "com.android.wechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014559324534-qvs2ek9f4l2gmre6t24dusbl1dcg4ej9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaA-TYuqb-gXvWEF08eJqMNFA6fbuUnZo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
